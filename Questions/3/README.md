@@ -4,4 +4,4 @@ I wrote 4 words with a pencil on a single A4 sheet of paper and placed it into t
 
 The question is what 4 words did I write?
 
-The answer requires some online research or reading Antti Bible.
+Full answer requires some online research or reading Antti Bible.
