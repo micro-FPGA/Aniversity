@@ -1,2 +1,2 @@
 # Aniversity
-Aniversity is a open University for anyone
+Aniversity is an open University for anyone
