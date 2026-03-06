@@ -1,0 +1,1 @@
+You live in distant galaxy and your son is still on Earth. He has to develop a very high-performance acoustic camera. You want to help him, but you can only transmit one three-letter word. What are those three letters you send your son?
