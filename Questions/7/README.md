@@ -3,6 +3,7 @@ You need to develop an electronic device that can control 453 capacitive sensors
 
 The Question is: what are the two things you need most to develop this device? 
 
-The answer is two four-letter words. I believe in you finding the right words. And I also believe you could actually design that electronic device controlling those sensors.
+The answer is two four-letter words. I believe in you finding the right words. 
+And I also believe you could actually design that electronic device controlling those sensors. With the help of those two things.
 
 
