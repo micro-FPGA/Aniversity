@@ -10,3 +10,5 @@ One person who believes you could save the world one day. I am that one person y
 The 2 seconds time starts the moment you have read the next line of text with the task description.
 
 Task description: Invent a capacitive sensor.
+
+To answer the question, describe what you did just draw.
