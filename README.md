@@ -58,7 +58,7 @@ Solving one problem teaches more than memorizing a thousand facts.
   `YYYY-MM-DD_your-question-title.md`  
 - Share findings through issues or pull requests.
 
-All materials are released under **Creative Commons BY‑NC‑SA 4.0** — freely shareable with credit.
+All materials are released under **MIT** — freely shareable.
 
 ---
 
