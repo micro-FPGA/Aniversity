@@ -14,4 +14,4 @@ Identor #9 suggested one solution that would also work, what we actually did tes
 
 So the question is WHAT did we add the schematic to make multiboot working again? 
 
-There is another solutio that does not need to add any components to the schematic, what is it?
+There is another solution that does not need to add any components to the schematic, what is it?
