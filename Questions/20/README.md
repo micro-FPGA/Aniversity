@@ -1,4 +1,4 @@
-Look at the picture in this folder. It is a LOW CAPACITANCE diode between PROG_BD and INIT nets going to FPGA.
+Look at the picture in this folder. It is a diode between PROG_BD and INIT nets going to FPGA.
 
 PROG_BD pulsing low initiates FPGA configuration process.
 
@@ -12,4 +12,6 @@ How to fix the problem without removing the DIODE?
 
 Identor #9 suggested one solution that would also work, what we actually did test was another solution.
 
-So the question is WHAT did we add the schematic to make multiboot working again?
+So the question is WHAT did we add the schematic to make multiboot working again? 
+
+There is another solutio that does not need to add any components to the schematic, what is it?
