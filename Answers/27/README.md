@@ -1,6 +1,5 @@
 
 
-
 // ============================================================================
 // Module: empathy_deadlock_resolver
 // Project: ANIVERSITY - The Open University of Impossible Questions
