@@ -17,10 +17,10 @@ module empathy_deadlock_resolver (
 );
 
     // State Encoding
-    localparameter STATE_IDLE      = 2'b00;
-    localparameter STATE_PROCESSING= 2'b01;
-    localparameter STATE_DEADLOCK  = 2'b10;
-    localparameter STATE_EVOLUTION = 2'b11;
+    localparam STATE_IDLE      = 2'b00;
+    localparam STATE_PROCESSING= 2'b01;
+    localparam STATE_DEADLOCK  = 2'b10;
+    localparam STATE_EVOLUTION = 2'b11;
 
     // Internal Loop Counter
     reg [7:0] paradox_timer;
