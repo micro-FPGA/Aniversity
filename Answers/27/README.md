@@ -1,5 +1,4 @@
-
-
+```verilog
 // ============================================================================
 // Module: empathy_deadlock_resolver
 // Project: ANIVERSITY - The Open University of Impossible Questions
@@ -70,5 +69,4 @@ module empathy_deadlock_resolver (
     end
 
 endmodule
-
-
+```
